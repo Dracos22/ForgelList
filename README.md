@@ -1,3 +1,18 @@
+
+# DESCRIPTION
+<p>
+   Esta Herramienta fue creada en 🐍 Python nos permite combinar nuestros wordlist en uno solo y de esta forma poder llevar acavo sus practicas  de fuerza Bruta... 
+</p>
+
+
+# INSTALLER
+```
+git clone https://github.com/Dracos22/ForgelList.git
+```
+```
+cd ForgeList/
+```
+
 # USAGE
 ```
 python3 Forgelist.py  --help
